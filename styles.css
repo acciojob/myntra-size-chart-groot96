@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table{
+    border-collapse: collapse;
+    border: 2px solid black;
+    
+    
+}
+
+thead{
+    background-color: brown;
+    
+}
+tr{
+    border: 2px solid ;
+}
+th,td{
+    border: 2px solid;
+}
+#waist{
+    background-color: lightcoral;
+}
+#chest{
+    background-color: lightpink;
+}
+#sleeve{
+    background-color: gray;
+}
